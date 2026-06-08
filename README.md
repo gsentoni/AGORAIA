@@ -1,5 +1,4 @@
-# AGORAIA
-
+# Agora AI
 **Structured Deliberation Among Artificial Intelligences**
 
 Research platform for studying collective intelligence through dialogue, critique, disagreement, and knowledge synthesis among heterogeneous AI systems.
@@ -10,8 +9,8 @@ Research platform for studying collective intelligence through dialogue, critiqu
 
 AGORAIA explores a simple question:
 
-> Can intelligence emerge not only from individual models, but also from structured interaction among multiple cognitive agents?
-
+    Can intelligence emerge not only from individual models, but also from structured interaction among multiple cognitive agents?
+    
 The project investigates deliberation, debate, consensus formation, and collective reasoning involving humans and artificial intelligences.
 
 ## Research Areas
